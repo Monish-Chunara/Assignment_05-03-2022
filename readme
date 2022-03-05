@@ -1,0 +1,21 @@
+This repository consists of a zip folder - "Assignment_Monish-Chunara_SI-TII.zip" containing the following directories and programs submitted for 'Assignment for all interns'.
+
+C Directory:
+	    1. Library.c
+	    2. marks.c
+	    3. search-n-sequence.c
+
+DS Directory:
+	    1. In-Place-Merge.c
+	    2. Binary-Numbers.c
+	    3. Print-Binary-Tree.c
+
+Cpp Directory:
+	    1. employee.cpp
+	    2. matrix.cpp
+	    3. piggie_bank.cpp
+
+The problem statements for these programs are available in the 'Problem-Statements.pdf' file.
+
+Submitted by: Monish Chunara
+	      Shift I - Track II
